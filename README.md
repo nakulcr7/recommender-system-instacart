@@ -3,4 +3,5 @@
 
 Download *.csv's from https://www.kaggle.com/c/instacart-market-basket-analysis/data locally into the 'data/' folder before proceeding
 
-
+From the home folder, install dependencies as:
+pip3 install -r requirements.txt
