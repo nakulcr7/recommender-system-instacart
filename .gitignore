@@ -1,20 +1,4 @@
 
 src/.ipynb_checkpoints/test-checkpoint.ipynb
 
-data/aisles.csv
-
-data/departments.csv
-
-data/departments.csv
-
-src/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-
-data/sample_submission.csv
-
-data/order_products__prior.csv
-
-data/orders.csv
-
-data/products.csv
-
-data/order_products__train.csv
+data/*
