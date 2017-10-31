@@ -1,0 +1,52 @@
+1. Orders per User
+2. Products per User
+3. Products per Order
+4. Order per day of Week -Normalize percentwise
+5. Order per time of day.
+6. Days_since prior order days grouping
+7. Top 20 Aisles
+8. Top 20 Products
+9. Top 20 Departments
+
+
+
+Observations:
+1. There is no user with less than 4 orders.
+2.  Orders per User and Products per User have exactly the same graph.
+3. Days since prior order where is the value 'NaN' going
+4. Days since prior order are there entris with days mor than 30?
+5. All Top Products are from Fresh Food/ Fresh veggie Aisle or fresh food Department
+6. Vairation of type of product repeating in top 20 products.
+
+
+Can be Graphs: 
+1. Finding k Most similar Items to a product
+
+
+Things for us to see:
+
+1. product similarity with none: captures if the product is usually present in orders    with no reorder.
+2. to capture recency, streak and past order similarity and diversity which helped.
+3. How to Group prodocts, since this will come into picture because, there is no subgrouping and many aisles have varied products
+4. To Find k most similar Products to a product
+   - Depending upon the name
+   - By finding similar customers
+5. How are grouping users together
+   - Similarity in the aisles/products they make purchase
+   - Similarity depending upon the time/day of week they order
+   - Or Something Else.
+
+
+
+
+
+
+Product X Item Features as suggested in Git:
+
+1. Number of orders in which the user purchases the item
+2. Days since the user last purchased the item
+3. Streak (number of orders in a row the user has purchased the item)
+4. Position in the cart
+5. Whether the user already ordered the item today
+6. Co-occurrence statistics
+7. Replacement items
