@@ -2,3 +2,5 @@
 src/.ipynb_checkpoints/test-checkpoint.ipynb
 
 data/*
+
+*.imf
