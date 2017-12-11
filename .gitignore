@@ -21,10 +21,4 @@ data/test_user_products1.csv
 
 data/user_products__prior.csv
 
-data/eval/eval_10.csv
-
-data/eval/eval_100.csv
-
-data/eval/eval_1000.csv
-
-data/eval/eval_full.csv
+data/eval/eval_*
