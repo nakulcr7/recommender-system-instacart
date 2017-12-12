@@ -22,3 +22,7 @@ data/test_user_products1.csv
 data/user_products__prior.csv
 
 data/eval/eval_*
+
+data/product_factor_*
+
+data/user_factor_*
