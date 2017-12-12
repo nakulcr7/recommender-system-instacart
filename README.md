@@ -1,3 +1,11 @@
+
+# CS 6220 Project: Instacart Market Basket Analysis
+
+Download *.csv's from https://www.kaggle.com/c/instacart-market-basket-analysis/data locally into the 'data/' folder before proceeding
+
+From the home folder, install dependencies as:
+pip3 install -r requirements.txt
+
 # Recommender Systems For Instacart: A Collaborative Filtering Approach
 ## CS 6220 Project: Team 07
 
@@ -15,3 +23,4 @@ Execution steps:
 2. Download all *.csv's from [here](https://www.kaggle.com/c/instacart-market-basket-analysis/data) into the `data/` directory.
 3. Run any of the Jupyter Notebooks under `src/`
 4. You can view the evaluation results in data/eval. [Note : an empty folder 'data/eval' should be present to save evaluation results]
+
