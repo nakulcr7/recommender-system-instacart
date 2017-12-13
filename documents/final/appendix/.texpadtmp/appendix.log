@@ -1,0 +1,228 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 DEC 2017 15:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**appendix.tex
+(./appendix.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+) (/Users/nakul/Workspace/northeastern/cs6220_project/documents/final/appendix/.texpadtmp/appendix.aux)
+\openout1 = `appendix.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 35.
+
+
+LaTeX Warning: No \author given.
+
+
+Overfull \hbox (4.09929pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 train or-der whose de-tails are pro-vided in "or-der[]products[][]prior.csv" and in "or-der[]products[][]train.csv"
+ []
+
+<train_user.png, id=1, 616.3025pt x 318.18875pt>
+File: train_user.png Graphic file (type png)
+ <use train_user.png>
+Package pdftex.def Info: train_user.png used on input line 48.
+(pdftex.def)             Requested size: 206.58583pt x 106.65335pt.
+ <test_user.png, id=3, 614.295pt x 159.59625pt>
+File: test_user.png Graphic file (type png)
+ <use test_user.png>
+Package pdftex.def Info: test_user.png used on input line 54.
+(pdftex.def)             Requested size: 206.58583pt x 53.67267pt.
+ <prior_df_merged.jpeg, id=4, 1726.45pt x 351.3125pt>
+File: prior_df_merged.jpeg Graphic file (type jpg)
+ <use prior_df_merged.jpeg>
+Package pdftex.def Info: prior_df_merged.jpeg used on input line 66.
+(pdftex.def)             Requested size: 517.939pt x 105.39455pt.
+
+Overfull \hbox (1.4665pt too wide) in paragraph at lines 66--67
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+<order_user.jpeg, id=5, 1595.9625pt x 1041.8925pt>
+File: order_user.jpeg Graphic file (type jpg)
+ <use order_user.jpeg>
+Package pdftex.def Info: order_user.jpeg used on input line 77.
+(pdftex.def)             Requested size: 319.18684pt x 208.3748pt.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./train_user.png> <./test_user.png>] <train_products_order.jpeg, id=17, 1537.745pt x 1041.8925pt>
+File: train_products_order.jpeg Graphic file (type jpg)
+ <use train_products_order.jpeg>
+Package pdftex.def Info: train_products_order.jpeg used on input line 85.
+(pdftex.def)             Requested size: 307.54355pt x 208.3748pt.
+ [2 <./prior_df_merged.jpeg> <./order_user.jpeg> <./train_products_order.jpeg>] <order_dow.jpeg, id=21, 1507.6325pt x 999.735pt>
+File: order_dow.jpeg Graphic file (type jpg)
+ <use order_dow.jpeg>
+Package pdftex.def Info: order_dow.jpeg used on input line 93.
+(pdftex.def)             Requested size: 301.52116pt x 199.94345pt.
+ <order_tod.jpeg, id=22, 1519.6775pt x 991.705pt>
+File: order_tod.jpeg Graphic file (type jpg)
+ <use order_tod.jpeg>
+Package pdftex.def Info: order_tod.jpeg used on input line 100.
+(pdftex.def)             Requested size: 303.93011pt x 198.33748pt.
+ [3 <./order_dow.jpeg> <./order_tod.jpeg>] <days_since_prior_order.jpeg, id=26, 1491.5725pt x 1015.795pt>
+File: days_since_prior_order.jpeg Graphic file (type jpg)
+ <use days_since_prior_order.jpeg>
+Package pdftex.def Info: days_since_prior_order.jpeg used on input line 108.
+(pdftex.def)             Requested size: 298.30922pt x 203.1554pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+<top_20_products.png, id=27, 748.7975pt x 603.25375pt>
+File: top_20_products.png Graphic file (type png)
+ <use top_20_products.png>
+Package pdftex.def Info: top_20_products.png used on input line 115.
+(pdftex.def)             Requested size: 299.51369pt x 241.29723pt.
+ [4 <./days_since_prior_order.jpeg> <./top_20_products.png>] (/Users/nakul/Workspace/northeastern/cs6220_project/documents/final/appendix/.texpadtmp/appendix.aux) ) 
+Here is how much of TeX's memory you used:
+ 2723 strings out of 493014
+ 44099 string characters out of 6133351
+ 103482 words of memory out of 5000000
+ 6256 multiletter control sequences out of 15000+600000
+ 6670 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,7n,40p,293b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /Users/nakul/Workspace/northeastern/cs6220_project/documents/final/appendix/.texpadtmp/appendix.pdf (4 pages, 904897 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
