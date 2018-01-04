@@ -26,3 +26,5 @@ data/eval/eval_*
 data/product_factor_*
 
 data/user_factor_*
+
+.ipynb_checkpoints/
