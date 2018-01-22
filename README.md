@@ -12,7 +12,7 @@ Exploratory data analysis is performed in `src/eda.ipynb`.
 
 We have implemented three collaborative filtering methods in independent Jupyter Notebooks under `src/`
 1. `tfidf.ipynb`: Neighborhood based method that uses cosine similarity on a tf-idf weighted matrix to recommend products from similar users.
-2. `SVD.ipynb`: Matrix factorization using SVD. Computes the largest K singular values/vectors for a sparse matrix. Based upon the largest K singular values, we find top K recommended items for users.
+2. `svd.ipynb`: Matrix factorization using SVD. Computes the largest K singular values/vectors for a sparse matrix. Based upon the largest K singular values, we find top K recommended items for users.
 3. `imf.ipynb`: Matrix factorization using Alternating Least Squares by representing the utility matrix as a confidence matrix. Based on the paper [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf).
 
 More details are in `documents/final/report.pdf`
